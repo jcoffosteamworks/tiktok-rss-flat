@@ -25,7 +25,7 @@ with open('subscriptions.csv') as f:
         fg = FeedGenerator()
         fg.id('https://www.tiktok.com/@' + user)
         fg.title(user + ' TikTok')
-        fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
+        fg.author( {'name':'Marketing Social Feed','email':'jcoffos@teamworks.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
         fg.logo(ghPagesURL + 'tiktok-rss.png')
         fg.subtitle('OK Boomer, all the latest TikToks from ' + user)
