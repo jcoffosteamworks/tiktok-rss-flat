@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://www.tiktok.com/@inflcr</id>
-  <title>inflcr TikTok</title>
-  <updated>2021-12-27T17:48:33.699307+00:00</updated>
+  <id>https://www.tiktok.com/@jamescoffos</id>
+  <title>jamescoffos TikTok</title>
+  <updated>2021-12-27T17:48:39.902145+00:00</updated>
   <author>
     <name>Marketing Social Feed</name>
     <email>jcoffos@teamworks.com</email>
   </author>
   <link href="http://tiktok.com" rel="alternate"/>
-  <link href="https://tiktokrss.conoroneill.com/rss/inflcr.xml" rel="self"/>
+  <link href="https://tiktokrss.conoroneill.com/rss/jamescoffos.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://tiktokrss.conoroneill.com/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from inflcr</subtitle>
+  <subtitle>OK Boomer, all the latest TikToks from jamescoffos</subtitle>
 </feed>
